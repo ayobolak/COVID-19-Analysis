@@ -5,8 +5,6 @@ COVID-19 Data Analysis Project: Exploratory analysis, visualization, and insight
 
 COVID-19 Global Trends Analysis is a comprehensive project focused on exploring the worldwide impact of COVID-19. It examines trends across nations, including key metrics such as death rates, survival rates, and the most heavily affected regions. The analysis utilizes up-to-date data from Our World in Data, encompassing COVID-19 cases, deaths, hospitalizations, and testing statistics. This daily-updated dataset provides insights into the pandemic's progression, helping to identify patterns and understand its global implications.
 
-<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/15528711"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/15528711/thumbnail" width="100%" alt="bar-chart-race visualization" /></noscript></div>
-
 ## Usage
 To use this project, open the Jupyter Notebook and run the cells to load and analyze the data. The charts and graphs will visualize the data, and you can interpret the insights provided by the analysis.
 
